@@ -16,7 +16,8 @@ leetcodes/
 
 ## Progress
 
-| # | Title | Difficulty | Status |
-|---|-------|------------|--------|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ Completed |
+| # | Title | Difficulty | Status | Time |
+|---|-------|------------|--------| ---- |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ Completed | `null` |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | ✅ Completed | 29 minutes |
 
