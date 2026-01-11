@@ -6,25 +6,25 @@ class Solution:
         def helper(state, paths):
             # print(state, paths)
             # if not state or not all(state):
-            if str(state) in cache: 
-                return cache[str(state)]
+            x, y = len(state), len(state[0])
+            if (x,y) in cache: 
+                return cache[x,y]
 
             if state[0][0]==1:
-                cache[str(state)]=0
+                cache[x,y]=0
                 return 0
             if len(state)==1 and len(state[0])==1:
-                cache[str(state)] = 1
+                cache[x,y] = 1
                 return 1
 
             if len(state) >= 2:
-                
                 a = helper(state[1:], paths) if state[1][0] == 0 else 0
-                cache[str(state[1:])] = a
+                cache[x-1, y] = a
             else:
                 a = 0
             if len(state[0])>=2:
                 b = helper([i[1:] for i in state], paths) if state[0][1] == 0 else 0
-                cache[str([i[1:] for i in state])] = b
+                cache[x, y-1] = b
             else:
                 b = 0
             # print(a+b)
