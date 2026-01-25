@@ -19,8 +19,10 @@ leetcodes/
 | # | Title | Difficulty | Status | Completed Date | Time | Additional Time to Optimize |
 |---|-------|------------|--------| -------------- | ---- | -------------------------- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ Completed | 2026-01-11 | `null` | 0 minutes |
-| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | ✅ Completed | 2026-01-11 | 29 minutes | 0 minutes |
-| 3047 | [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles) | Medium | ✅ Completed | 2026-01-17 | 15 minutes | 0 minutes |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | ✅ Completed | 2026-01-11 | 29 minutes | TBD |
+| 3047 | [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles) | Medium | ✅ Completed | 2026-01-17 | 15 minutes | TBD |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | ✅ Completed | 2026-01-24 | 6 minutes | TBD |
+| 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Medium | ✅ Completed | 2026-01-24 | 20 minutes | TBD |
 
 ## Problem README Template
 
