@@ -23,6 +23,7 @@ leetcodes/
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles) | Medium | ✅ Completed | 2026-01-17 | 15 minutes | TBD |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | ✅ Completed | 2026-01-24 | 6 minutes | TBD |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Medium | ✅ Completed | 2026-01-24 | 20 minutes | TBD |
+| 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | Medium | ✅ Completed | 2026-01-27 | 48 minutes | TBD |
 
 ## Problem README Template
 
