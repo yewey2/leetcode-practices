@@ -24,6 +24,9 @@ leetcodes/
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | ✅ Completed | 2026-01-24 | 6 minutes | TBD |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Medium | ✅ Completed | 2026-01-24 | 20 minutes | TBD |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | Medium | ✅ Completed | 2026-01-27 | 48 minutes | TBD |
+| 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | ✅ Completed | 2026-01-31 | 25 minutes | TBD |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | ✅ Completed | 2026-01-31 | 1 minute | TBD |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | ✅ Completed | 2026-01-31 | 1 minute | TBD |
 
 ## Problem README Template
 
