@@ -27,6 +27,7 @@ leetcodes/
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | ✅ Completed | 2026-01-31 | 25 minutes | TBD |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | ✅ Completed | 2026-01-31 | 1 minute | TBD |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | ✅ Completed | 2026-01-31 | 1 minute | TBD |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-01-31) | Easy | ✅ Completed | 2026-02-01 | 2 minutes | TBD |
 
 ## Problem README Template
 
