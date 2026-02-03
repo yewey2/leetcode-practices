@@ -29,6 +29,7 @@ leetcodes/
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | ✅ Completed | 2026-01-31 | 1 minute | TBD |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-01-31) | Easy | ✅ Completed | 2026-02-01 | 2 minutes | TBD |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | Medium | ✅ Completed | 2026-02-01 | 16 minutes | TBD |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | ✅ Completed | 2026-02-03 | 12 minutes | TBD |
 
 ## Problem README Template
 
@@ -55,4 +56,7 @@ Approach: <short summary of the solution idea and complexity>.
 
 To improve: <quick notes on optimizations or follow-ups>.
 ```
+
+## Additional Instructions to Agent:
+- Remember to add in the imports, such as `from typing import List, Optional`
 
