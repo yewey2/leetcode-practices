@@ -31,6 +31,7 @@ leetcodes/
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | Medium | ✅ Completed | 2026-02-01 | 16 minutes | TBD |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | ✅ Completed | 2026-02-03 | 12 minutes | TBD |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/) | Medium | ✅ Completed | 2026-03-01 | 1 minute | TBD |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/?envType=daily-question&envId=2026-03-01) | Medium | ✅ Completed | 2026-03-01 | 4 minutes | TBD |
 
 ## Problem README Template
 
