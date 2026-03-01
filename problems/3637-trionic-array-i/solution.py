@@ -57,3 +57,26 @@ class Solution:
             print('now', curr, positive, count)
         return count==2
         ## complete 2.47
+
+        ## optimal logic from claude
+        n = len(nums)
+        if n < 4:
+            return False
+
+        i = 1
+        while i < n and nums[i] > nums[i - 1]:
+            i += 1
+        if i == 1 or i == n:
+            return False
+
+        j = i
+        while i < n and nums[i] < nums[i - 1]:
+            i += 1
+        if i == j or i == n:
+            return False
+
+        k = i
+        while i < n and nums[i] > nums[i - 1]:
+            i += 1
+
+        return i == n and i > k
